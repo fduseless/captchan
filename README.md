@@ -19,7 +19,7 @@ yarn add captchan
 ## Usage
 
 ```javascript
-import { createImage } from '../index.js'
+import { createImage, Format } from '../index.js'
 
 // with default value
 const {text, image} = createImage();
@@ -30,7 +30,7 @@ const {text, image} = createImage(
     difficulty=5, // range [1,10]
     line=true, // draw bezier curve or ellipse
     noise=false, // whether add gaussian noise
-    format="png", // png | jpg | jpeg | webp
+    format=Format.PNG, // PNG | JPG | JPEG | WEBP
 );
 ```
 
