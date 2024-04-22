@@ -3,5 +3,5 @@ import test from 'ava'
 import { createImage } from '../index.js'
 
 test('create_image from native', (t) => {
-  t.is(createImage()[0].length, 4)
+  t.is(createImage().text.length, 4)
 })

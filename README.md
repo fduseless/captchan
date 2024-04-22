@@ -19,7 +19,7 @@ yarn add captchan
 ## Usage
 
 ```javascript
-import { createImage, Format } from '../index.js'
+import { createImage, Format } from 'captchan';
 
 // with default value
 const {text, image} = createImage();
