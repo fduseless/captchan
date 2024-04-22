@@ -1,0 +1,15 @@
+{
+  "name": "captchan-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "captchan.darwin-universal.node",
+  "files": [
+    "captchan.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
