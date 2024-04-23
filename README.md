@@ -1,6 +1,6 @@
 # CaptchaN
 
-Captcha for Node, which generates captcha image by Rust.
+Captcha for Node js, which generates captcha image by Rust.
 
 ## Feature
 
@@ -13,13 +13,13 @@ Captcha for Node, which generates captcha image by Rust.
 Install captchan with yarn:
 
 ```bash
-yarn add captchan
+yarn add @fduseless/captchan
 ```
 
 ## Usage
 
 ```javascript
-import { createImage, Format } from 'captchan';
+import { createImage, Format } from '@fduseless/captchan';
 
 // with default value
 const {text, image} = createImage();
