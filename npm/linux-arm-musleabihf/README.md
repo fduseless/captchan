@@ -1,3 +1,3 @@
-# `captchan-linux-arm-musleabihf`
+# `@fduseless/captchan-linux-arm-musleabihf`
 
-This is the **armv7-unknown-linux-musleabihf** binary for `captchan`
+This is the **armv7-unknown-linux-musleabihf** binary for `@fduseless/captchan`

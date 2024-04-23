@@ -5,6 +5,15 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
+"@fduseless/captchan@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@fduseless/captchan@workspace:."
+  dependencies:
+    "@napi-rs/cli": "npm:^2.18.2"
+    ava: "npm:^6.0.1"
+  languageName: unknown
+  linkType: soft
+
 "@mapbox/node-pre-gyp@npm:^1.0.5":
   version: 1.0.11
   resolution: "@mapbox/node-pre-gyp@npm:1.0.11"
@@ -327,15 +336,6 @@ __metadata:
   checksum: 10c0/91700844127a6dcd4792d231a12dd8e9ec10525eb9962180a8558417d7e3f443e52a4f14746ad2838eaf14f79431ee1539d13bd188da280f720a06a91bd1157a
   languageName: node
   linkType: hard
-
-"captchan@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "captchan@workspace:."
-  dependencies:
-    "@napi-rs/cli": "npm:^2.18.2"
-    ava: "npm:^6.0.1"
-  languageName: unknown
-  linkType: soft
 
 "cbor@npm:^9.0.1":
   version: 9.0.2

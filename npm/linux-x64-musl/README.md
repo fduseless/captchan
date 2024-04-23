@@ -1,3 +1,3 @@
-# `captchan-linux-x64-musl`
+# `@fduseless/captchan-linux-x64-musl`
 
-This is the **x86_64-unknown-linux-musl** binary for `captchan`
+This is the **x86_64-unknown-linux-musl** binary for `@fduseless/captchan`

@@ -1,3 +1,3 @@
-# `captchan-win32-ia32-msvc`
+# `@fduseless/captchan-win32-ia32-msvc`
 
-This is the **i686-pc-windows-msvc** binary for `captchan`
+This is the **i686-pc-windows-msvc** binary for `@fduseless/captchan`

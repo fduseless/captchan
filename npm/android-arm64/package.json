@@ -1,5 +1,5 @@
 {
-  "name": "captchan-android-arm64",
+  "name": "@fduseless/captchan-android-arm64",
   "version": "0.0.0",
   "os": [
     "android"
@@ -14,5 +14,9 @@
   "license": "MIT",
   "engines": {
     "node": ">= 10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenkovsky/captchan.git"
   }
 }

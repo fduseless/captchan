@@ -1,5 +1,5 @@
 {
-  "name": "captchan-win32-ia32-msvc",
+  "name": "@fduseless/captchan-win32-ia32-msvc",
   "version": "0.0.0",
   "os": [
     "win32"
@@ -14,5 +14,9 @@
   "license": "MIT",
   "engines": {
     "node": ">= 10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenkovsky/captchan.git"
   }
 }

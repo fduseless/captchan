@@ -1,3 +1,3 @@
-# `captchan-darwin-x64`
+# `@fduseless/captchan-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `captchan`
+This is the **x86_64-apple-darwin** binary for `@fduseless/captchan`

@@ -1,6 +1,6 @@
 {
-  "name": "captchan",
-  "version": "0.0.0",
+  "name": "@fduseless/captchan",
+  "version": "0.1.0",
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
@@ -43,5 +43,9 @@
     "universal": "napi universal",
     "version": "napi version"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.1.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenkovsky/captchan.git"
+  }
 }

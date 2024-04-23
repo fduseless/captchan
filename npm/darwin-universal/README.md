@@ -1,3 +1,3 @@
-# `captchan-darwin-universal`
+# `@fduseless/captchan-darwin-universal`
 
-This is the **universal-apple-darwin** binary for `captchan`
+This is the **universal-apple-darwin** binary for `@fduseless/captchan`

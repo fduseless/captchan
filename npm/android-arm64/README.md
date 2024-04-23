@@ -1,3 +1,3 @@
-# `captchan-android-arm64`
+# `@fduseless/captchan-android-arm64`
 
-This is the **aarch64-linux-android** binary for `captchan`
+This is the **aarch64-linux-android** binary for `@fduseless/captchan`

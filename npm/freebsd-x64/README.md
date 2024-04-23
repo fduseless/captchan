@@ -1,3 +1,3 @@
-# `captchan-freebsd-x64`
+# `@fduseless/captchan-freebsd-x64`
 
-This is the **x86_64-unknown-freebsd** binary for `captchan`
+This is the **x86_64-unknown-freebsd** binary for `@fduseless/captchan`

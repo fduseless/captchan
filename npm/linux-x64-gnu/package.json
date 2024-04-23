@@ -1,5 +1,5 @@
 {
-  "name": "captchan-linux-x64-gnu",
+  "name": "@fduseless/captchan-linux-x64-gnu",
   "version": "0.0.0",
   "os": [
     "linux"
@@ -17,5 +17,9 @@
   },
   "libc": [
     "glibc"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenkovsky/captchan.git"
+  }
 }

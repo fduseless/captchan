@@ -1,3 +1,3 @@
-# `captchan-linux-riscv64-gnu`
+# `@fduseless/captchan-linux-riscv64-gnu`
 
-This is the **riscv64gc-unknown-linux-gnu** binary for `captchan`
+This is the **riscv64gc-unknown-linux-gnu** binary for `@fduseless/captchan`
